@@ -1,11 +1,11 @@
 module.exports = {
   nodes: [
      {
-      host: "HOST",
-      password: "PASSWORD",
-      port: PORT,
+      host: "er1.node.hypernology.com",
+      password: "jetta
+      port: 57500,
       retryDelay: 1,
-      identifier: "NAME FOR THE LAVALINK",
+      identifier: "jetta音樂機器人節點
       secure: false/true,
     },
     {
